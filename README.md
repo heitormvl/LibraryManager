@@ -12,7 +12,7 @@ The Library Management System is a simple console application that allows users 
 
 1. **Prerequisites:**
 
-    - Ensure you have [.NET Core SDK](https://dotnet.microsoft.com/download) installed on your machine.
+    - Ensure you have [.NET SDK](https://dotnet.microsoft.com/download) installed on your machine.
 
 2. **Download the Source Code:**
 
